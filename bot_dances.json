@@ -1,0 +1,20 @@
+{
+  "idle-astronaut": {
+    "duration": 14
+  },
+  "idle-loop-sitfloor": {
+    "duration": 17
+  },
+  "dance-floss": {
+    "duration": 13
+  },
+  "sit-idle-cute": {
+    "duration": 17
+  },
+  "idle-space": {
+    "duration": 35
+  },
+  "dle-space": {
+    "duration": 35
+  }
+}

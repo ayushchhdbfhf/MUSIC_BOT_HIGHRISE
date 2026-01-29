@@ -1,2 +1,2 @@
-# MUSIC_BOT_HIGHRISE
-MUSIC BOT FOR HIGHRISE
+# bot_highrise
+bot highrise
